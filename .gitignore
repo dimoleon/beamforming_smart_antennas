@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+*.txt 
+.DS_Store
+*.png
+*.jpg
+*.zip
+*media/
+*.fdb_latexmk
+*.aux
+*.fls
+*.out
+*.synctex.gz
+*.log
+*pycache*
+*_minted/
+
